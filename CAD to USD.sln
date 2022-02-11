@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAD to USD", "CAD to USD\CAD to USD.csproj", "{6EB1A85B-FCE3-464C-A3AD-7BD8E0F810DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EB1A85B-FCE3-464C-A3AD-7BD8E0F810DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB1A85B-FCE3-464C-A3AD-7BD8E0F810DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB1A85B-FCE3-464C-A3AD-7BD8E0F810DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB1A85B-FCE3-464C-A3AD-7BD8E0F810DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38C174F4-2B11-4BD7-81CE-3C3C4843DBF6}
+	EndGlobalSection
+EndGlobal
